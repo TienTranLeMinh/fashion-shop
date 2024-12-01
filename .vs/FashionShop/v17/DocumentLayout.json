@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FashionShop\\fashion-shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4326C975-793E-49C4-A87C-BFC828E1F4AC}|FashionShop.Infrastructure\\FashionShop.Infrastructure.csproj|d:\\fashionshop\\fashion-shop\\fashionshop.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4326C975-793E-49C4-A87C-BFC828E1F4AC}|FashionShop.Infrastructure\\FashionShop.Infrastructure.csproj|solutionrelative:fashionshop.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326C975-793E-49C4-A87C-BFC828E1F4AC}|FashionShop.Infrastructure\\FashionShop.Infrastructure.csproj|d:\\fashionshop\\fashion-shop\\fashionshop.infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4326C975-793E-49C4-A87C-BFC828E1F4AC}|FashionShop.Infrastructure\\FashionShop.Infrastructure.csproj|solutionrelative:fashionshop.infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD3308-078E-4363-9FD2-EF0AFAE179C0}|FashionShop.Core\\FashionShop.Core.csproj|d:\\fashionshop\\fashion-shop\\fashionshop.core\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BD3308-078E-4363-9FD2-EF0AFAE179C0}|FashionShop.Core\\FashionShop.Core.csproj|solutionrelative:fashionshop.core\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\FashionShop\\fashion-shop\\FashionShop.Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop.Infrastructure\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\FashionShop\\fashion-shop\\FashionShop.Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "FashionShop.Infrastructure\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:52:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FashionShop\\fashion-shop\\FashionShop.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\FashionShop\\fashion-shop\\FashionShop.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "FashionShop.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:07:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\FashionShop\\fashion-shop\\FashionShop.Core\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop.Core\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\FashionShop\\fashion-shop\\FashionShop.Core\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "FashionShop.Core\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:56:51.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
